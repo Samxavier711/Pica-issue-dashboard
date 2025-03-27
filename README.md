@@ -7,6 +7,9 @@ Pica Issue Dashboard is a web-based tool designed to assist developers in debugg
 3. **Send notifications on Slack** to alert team members for assistance.
 4. **Showcase knowledge of Pica connectors** and API integrations.
 
+
+![Project Screenshot](Screenshot (186).png)
+
 ---
 
 ## 📂 Project Structure
